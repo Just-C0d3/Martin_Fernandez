@@ -4,7 +4,7 @@ Hi! im Martín, im a cloud infrastructure administrator based in spain with a ma
 This site contains different projects, exam preparation resumes and modules related to cloud infrastructure.
 
 #### Index
--  [Exam preparation](http://example.com)
+-  [Exam preparation](https://github.com/Just-C0d3/Martin_Fernandez/tree/exam_prep)
 -  [Bicep projects](https://github.com/Just-C0d3/Bicep)
 -  [Terraform projects](https://github.com/Just-C0d3/Project_IaC/tree/Terraform+yml) 
 -  [Azure project](https://github.com/Just-C0d3/Project_IaC/tree/IIS-pipeline)
