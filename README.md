@@ -8,3 +8,5 @@ This site contains different projects, exam preparation resumes and modules rela
 -  [Bicep projects](https://github.com/Just-C0d3/Bicep)
 -  [Terraform projects](https://github.com/Just-C0d3/Project_IaC/tree/Terraform+yml) 
 -  [Azure project](https://github.com/Just-C0d3/Project_IaC/tree/IIS-pipeline)
+
+theme: jekyll-theme-Midnight
