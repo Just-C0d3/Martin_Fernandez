@@ -6,7 +6,7 @@ In this module I will store schemas, resumes and documentation I´ve generated d
 this documentation to prepare por said exams.
 
 #### Index
--  [Az-104_Azure_Administrator](https://github.com/Just-C0d3/Martin_Fernandez/blob/exam_prep/az-104.md)
+-  [Az-104_Azure_Administrator](https://just-c0d3.github.io/Martin_Fernandez/Az_104)
 
 
 
